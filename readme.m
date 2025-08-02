@@ -1,6 +1,6 @@
 # 🚀 15 Days of DSA Challenge – Python
 
-Welcome to my **15-day Data Structures & Algorithms (DSA) challenge**, inspired by an initiative from Instagram influencer [@digdeeper_](https://www.instagram.com/digdeeper_/). The challenge focuses on solving **3 DSA problems per day** for 15 days, aiming to build strong fundamentals and improve problem-solving consistency.
+Welcome to my **15-day Data Structures & Algorithms (DSA) challenge**, inspired by an initiative from Instagram influencer [@digdeeper_](https://www.instagram.com/digg_deeperr/). The challenge focuses on solving **3 DSA problems per day** for 15 days, aiming to build strong fundamentals and improve problem-solving consistency.
 
 ---
 
